@@ -1,0 +1,81 @@
+*{
+	font-family: 'Yusei Magic', sans-serif;
+}
+body{
+	background: #f1e865;
+}
+
+#big{
+	background: white;
+	width: 500px;
+	height:300px;
+	border:1px;
+	border-radius: 5px;
+	position: absolute;
+	left: 34%;
+	top:25%;
+
+}
+div{
+	position: relative;
+}
+h1{
+	font-family: 'Potta One', cursive;
+	color: #fae616;
+
+}
+.h1{
+	padding: 8px 4px 4px 4px;
+}
+
+.contenedor-imagen{
+	position: relative;
+	left: 390px;
+	bottom:100px;
+}
+
+img{
+	width: 100px;
+	height: 100px;
+}
+
+.texto-form{
+	position: relative;
+	bottom:100px;
+}
+.texto{
+	position: relative;
+	left: 4px;
+	width: 200px;
+}
+p{
+	margin:4px;
+}
+.form{
+	position: relative;
+	left: 300px;
+	bottom:135px;
+}
+input{
+	margin:3px;
+	border-top-style: none;
+	border-left-style: none;
+	border-right-style: none;
+	font-size: 15px;
+}
+.but{
+	position: relative;
+	bottom: 75px;
+	left:154px;
+}
+button{
+	background-color: #1a58a1
+}
+button:hover{
+	background-color: #22abbe;
+}
+i{
+	position:relative;
+	right:20px;
+	color: #ce2963;
+}
